@@ -1,5 +1,5 @@
 # Model Training
-This GitHub repository contains notebooks for training LSTM and CNN models using TensorFlow for time series analysis, along with a simple statistical model.  Additionally, it houses two pre-trained models.
+This GitHub repository contains notebooks for training LSTM and CNN models using TensorFlow for time series analysis for amount of visitors, along with a simple statistical model.  Additionally, it houses two pre-trained models.
 ## Structure
 *   `tensorflow_main_model_training.ipynb`: This notebook contains the training process for the main_model, which is currently deployed in production.
 *   `tensorflow_model_training_cnn.ipynb`: This notebook contains the training process for the cnn_model. While it's more experimental, it has yielded similar results to the main_model.
